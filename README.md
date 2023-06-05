@@ -1,5 +1,5 @@
 <!-- ### <h3>Hi, I'm Azer </h3> -->
-<p align="left" style="width: 100px"><img width="40%" src="./assets/IMG_20230605_134800.png" /></p>
+<p align="left" style="width: 100px"><img width="30%" src="./assets/IMG_20230605_152007.png" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=f05338&theme=swift&border_color=fff0&border_radius=0"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&&show_icons=true&title_color=4d4d4d&icon_color=4b5ed9&text_color=0969da&bg_color=fff0"/> -->
 
