@@ -1,6 +1,6 @@
 <!-- ### <h3>Hi, I'm Azer </h3> -->
-<p align="left" style="width: 100px"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/IMG_20230605_133446.png" /></a></p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=f05338&theme=swift&border_color=fff0&border_radius=0"/> -->
+<p align="left" style="width: 100px"><img width="80%" src="./assets/IMG_20230605_133446.png" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=f05338&theme=swift&border_color=fff0&border_radius=0"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&&show_icons=true&title_color=4d4d4d&icon_color=4b5ed9&text_color=0969da&bg_color=fff0"/> -->
 
 ### <h3 align="left">Languages and Tools:</h3>
