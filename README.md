@@ -32,7 +32,9 @@
   
 # <h3></h3>
   
-<p><img src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=500&background=EBEBEB00&currStreakNum=656d76&sideNums=656d76&border=32333421&stroke=32333421&sideLabels=464646&dates=656d76&excludeDaysLabel=656d76"/>
+<p>
+<!--<img src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=500&background=EBEBEB00&currStreakNum=656d76&sideNums=656d76&border=32333421&stroke=32333421&sideLabels=464646&dates=656d76&excludeDaysLabel=656d76"/>-->
+<img src="https://streak-stats.demolab.com?user=iamthewinter&theme=gruvbox&border_radius=3&background=fff0&card_width=500&border=808ea224&stroke=808ea224"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthewinter&show_icons=true&locale=en&border_radius=0&title_color=656d76&layout=compact&bg_color=fff0&border_color=32333421&text_color=656d76" alt="iamthewinter"/>
 </p>
   
