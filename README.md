@@ -37,7 +37,7 @@
 </p>
   
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=32333421&text_color=656d76&border_radius=0&bg_color=fff0"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=32333421&text_color=656d76&border_radius=0&bg_color=fff0"/>
 
 
   
