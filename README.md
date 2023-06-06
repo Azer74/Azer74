@@ -32,9 +32,10 @@
   
 # <h3></h3>
   
-<p><img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=E4E2E2&text_color=656d76&border_radius=0&bg_color=fff0"/>
-<img align="right" src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=495&background=EBEBEB00"/></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthewinter&show_icons=true&locale=en&border_radius=0&layout=compact" alt="iamthewinter" />
+<p><img src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=500&background=EBEBEB00"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthewinter&show_icons=true&locale=en&border_radius=0&layout=compact" alt="iamthewinter"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=E4E2E2&text_color=656d76&border_radius=0&bg_color=fff0"/>
+
 
   
 
