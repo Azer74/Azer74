@@ -15,7 +15,6 @@
 
 ### <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
@@ -29,15 +28,16 @@
 <img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikipedia_svg_logo.svg/2048px-Wikipedia_svg_logo.svg.png"/>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+<img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
 # <h3></h3>
   
-<p><img src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=500&background=EBEBEB00"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthewinter&show_icons=true&locale=en&border_radius=0&layout=compact" alt="iamthewinter"/>
+<p><img src="https://streak-stats.demolab.com?user=iamthewinter&border_radius=0&card_width=500&background=EBEBEB00&currStreakNum=656d76&sideNums=656d76&border=32333421&stroke=32333421&sideLabels=151515&dates=464646&excludeDaysLabel=464646"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthewinter&show_icons=true&locale=en&border_radius=0&title_color=656d76&layout=compact&bg_color=fff0&border_color=32333421&text_color=656d76" alt="iamthewinter"/>
 </p>
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=fff0&text_color=656d76&border_radius=0&bg_color=fff0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamthewinter&show_icons=true&title_color=656d76&theme=swift&border_color=32333421&text_color=656d76&border_radius=0&bg_color=fff0"/>
 
 
   
