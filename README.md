@@ -1,5 +1,5 @@
 <!-- ### <h3>Hi, I'm Azer </h3> -->
-<p align="left" style="width: 100px"><img width="20%" src="./assets/IMG_20230609_203450.png" /></p>
+<p align="left" style="width: 100px"><img width="40%" src="./assets/IMG_20230609_204627.png" /></p>
 
 # <h6></h6>
 
